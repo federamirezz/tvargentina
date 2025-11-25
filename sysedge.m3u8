@@ -30,3 +30,26 @@ https://cdnlatam.sysedge-delivery.com/FS_2_CACHE2/index.m3u8
 #EXTINF:-1,FOX SPORTS 3 AR
 https://cdnlatam.sysedge-delivery.com/FS3_CACHE1/index.m3u8
 
+#EXTINF:-1,HBO2 AR
+https://cdnlatam.sysedge-delivery.com/HBO2_CACHE1/index.m3u8
+
+#EXTINF:-1,HBO FAMILY AR
+https://cdnlatam.sysedge-delivery.com/HBO_FAMILY_CACHE3/index.m3u8
+
+#EXTINF:-1,HBO XTREME AR
+https://cdnlatam.sysedge-delivery.com/HBO_XTREME_CACHE2/index.m3u8
+
+#EXTINF:-1,HBO HD AR
+https://cdnlatam.sysedge-delivery.com/HBO_HD_CACHE1/index.m3u8
+
+#EXTINF:-1,HBO MUNDI AR
+https://cdnlatam.sysedge-delivery.com/HBO_MUNDI_CACHE3/index.m3u8
+
+#EXTINF:-1,HBO SIGNATURE AR
+https://cdnlatam.sysedge-delivery.com/HBO_SIGNATURE_CACHE1/index.m3u8
+
+#EXTINF:-1,HBO PLUS AR
+https://cdnlatam.sysedge-delivery.com/HBO_PLUS_CACHE1/index.m3u8
+
+#EXTINF:-1,HBO POP AR
+https://cdnlatam.sysedge-delivery.com/HBO_POP_CACHE3/index.m3u8
