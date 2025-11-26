@@ -53,3 +53,21 @@ https://cdnlatam.sysedge-delivery.com/HBO_PLUS_CACHE1/index.m3u8
 
 #EXTINF:-1,HBO POP AR
 https://cdnlatam.sysedge-delivery.com/HBO_POP_CACHE3/index.m3u8
+
+#EXTINF:-1,A24 AR
+https://cdnlatam.sysedge-delivery.com/A24_CACHE1/index.m3u8
+
+#EXTINF:-1,C5N AR
+https://cdnlatam.sysedge-delivery.com/C5N_CACHE3/index.m3u8
+
+#EXTINF:-1,TN AR
+https://cdnlatam.sysedge-delivery.com/TN_CACHE2/index.m3u8
+
+#EXTINF:-1,CANAL 26 AR
+https://cdnlatam.sysedge-delivery.com/CANAL_26_CACHE1/index.m3u8
+
+#EXTINF:-1,HISTORY AR
+https://cdnlatam.sysedge-delivery.com/HISTORY_CHANNEL_CACHE4/index.m3u8
+
+#EXTINF:-1,TELEFE AR
+https://cdnlatam.sysedge-delivery.com/TELEFE_CACHE1/index.m3u8
