@@ -74,3 +74,6 @@ https://cdnlatam.sysedge-delivery.com/TELEFE_CACHE1/index.m3u8
 
 #EXTINF:-1,AMERICA ARGENTINA AR
 https://cdnlatam.sysedge-delivery.com/AMERICA_TV_CACHE2/index.m3u8
+
+#EXTINF:-1,GOLDEN AR
+https://cdnlatam.sysedge-delivery.com/GOLDEN_CACHE3/index.m3u8
