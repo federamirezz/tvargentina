@@ -77,3 +77,6 @@ https://cdnlatam.sysedge-delivery.com/AMERICA_TV_CACHE2/index.m3u8
 
 #EXTINF:-1,GOLDEN AR
 https://cdnlatam.sysedge-delivery.com/GOLDEN_CACHE3/index.m3u8
+
+#EXTINF:-1,SKY SPORTS LA LIGA
+https://cdnlatam.sysedge-delivery.com/SKY_SPORTS_CACHE1/index.m3u8
